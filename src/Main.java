@@ -5,4 +5,5 @@ void main() {
     Random rand = new Random();
     int randNum = rand.nextInt();
     System.out.println(randNum);
+    System.out.println();
 }
