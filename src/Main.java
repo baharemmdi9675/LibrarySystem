@@ -7,4 +7,5 @@ void main() {
     System.out.println(randNum);
     System.out.println();
     System.out.println();
+    System.out.println("feature sout");
 }
