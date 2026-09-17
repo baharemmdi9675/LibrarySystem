@@ -7,5 +7,6 @@ void main() {
     System.out.println(randNum);
     System.out.println();
     System.out.println();
+    System.out.println("feature sout");
     System.out.println("master sout");
 }
