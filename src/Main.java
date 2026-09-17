@@ -6,4 +6,5 @@ void main() {
     int randNum = rand.nextInt();
     System.out.println(randNum);
     System.out.println();
+    System.out.println();
 }
